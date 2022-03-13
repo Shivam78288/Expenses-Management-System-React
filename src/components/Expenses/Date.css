@@ -1,0 +1,19 @@
+.date-container {
+  background-color: rgb(37, 33, 33);
+  border-radius: 12px;
+  color: white;
+  margin: 2px;
+  border: 1px solid white;
+  width: 110px;
+  padding: 2px;
+}
+
+.date-props {
+  padding: 1px 20px 1px 20px;
+  text-align: center;
+}
+
+.date {
+  font-size: 25px;
+  font-weight: 600;
+}
